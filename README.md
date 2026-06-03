@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Thox 👋</h1>
 
 <p align="center">
-  Business operator &amp; AI content creator from <b>Yogyakarta, Indonesia</b> 🇮🇩<br>
+  Business operator &amp; AI content creator 
   I build small, practical open-source tools for AI-assisted content creation.
 </p>
 
